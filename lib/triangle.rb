@@ -28,5 +28,19 @@ class Triangle
       "Not a valid input"
     end
   end
+
+  def side_one
+    @side1
+  end
+
+  def side_two
+    @side2
+  end
+
+  def side_three
+    @side3
+  end
+
+
 end
 
